@@ -15,5 +15,6 @@ require 'pry'
   # }
   
 def remove_strawberry(contacts) # calls for the hash contacts
+ # removes the strawberry ice cream from :favorite_ice_cream_flavors 
  
 end
