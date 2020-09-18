@@ -14,6 +14,6 @@ require 'pry'
   #   }
   # }
   
-def remove_strawberry(contacts)
-
+def remove_strawberry(contacts) # calls for the hash contacts
+ 
 end
